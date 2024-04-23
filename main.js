@@ -143,7 +143,6 @@ function resetGame(){
     food = generateFood();
     direction = "right";
     updateScore();
-    //test
 }
 
 function updateScore(){
